@@ -1,2 +1,2 @@
 # cv
-publish you CV
+publish your CV
